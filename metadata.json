@@ -1,0 +1,6 @@
+{
+  "name": "Swarify",
+  "description": "Music streaming app with instant global song search, curated Bollywood and global playlists, queue management, and real-time audio playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
